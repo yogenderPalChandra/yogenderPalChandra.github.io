@@ -1,17 +1,32 @@
 ---
-title: Writing a New Post
-author: cotes
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
+title: O MĚ
+author: Linda 
+date: 2024-08-01 14:10:00 +0800
+categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
 ---
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 
-## Naming and Path
+„Nikdy nerezignuj na to, co chceš opravdu dělat. Člověk s velkými sny je mocnější než ten se všemi fakty.“
+
+„Jdi za svým snem a neohlížej se co si myslí lidé kolem tebe, je to TVŮJ sen.“
+
+
+## Vítejte na mém blogu :)
+
+![Desktop View](/images/img2.jpg){: width="972" height="589" .w-75 .normal}
+
+### Linda: Za hranicemi komfortní zóny za svými sny   
 
 Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. If you want to save time of creating files, please consider using the plugin [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) to accomplish this.
+
+Jmenuji se Linda a založení blogu pro mě znamenalo obrovský krok z mé komfortní zóny. Nepovažuji se za bloggerku v pravém slova smyslu, ale toto je pro mě způsob, jak ukázat světu, čemu se věnuji a proč to dělám. Chci inspirovat ostatní a ukázat jim, že existuje i jiný způsob života, jak si plnit sny a jít za štěstím. 
+
+Všechno začíná myšlenkou, snem o změně sebe sama a svého života. Klíčem je opustit komfortní zónu a začít pro svůj sen dělat maximum. Není to snadné, ale jakmile tento krok uděláme, otevírá se nám před očima nová cesta plná možností. A já jsem za to nesmírně vděčná.
+
+Vždy se najdou lidé, kteří se vás pokusí odradit od vašich snů. Ale pokud je váš sen dostatečně silný, nenechte se odradit a jděte si za ním. Vaše cesta bude možná náročná, ale věřte, že odměna na konci stojí za to.
 
 ## Front Matter
 

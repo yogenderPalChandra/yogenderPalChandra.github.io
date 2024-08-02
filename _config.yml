@@ -91,10 +91,12 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+#cdn: "https://chirpy-img.netlify.app"
+cdn: "/assets"
+# the avatar on sidebar, supp ort local or CORS resources
+#avatar: "/commons/avatar.jpg"
+avatar: "/images/img2.jpg"
 
-# the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
