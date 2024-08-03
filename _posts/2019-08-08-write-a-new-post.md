@@ -28,7 +28,41 @@ Všechno začíná myšlenkou, snem o změně sebe sama a svého života. Klíč
 
 Vždy se najdou lidé, kteří se vás pokusí odradit od vašich snů. Ale pokud je váš sen dostatečně silný, nenechte se odradit a jděte si za ním. Vaše cesta bude možná náročná, ale věřte, že odměna na konci stojí za to.
 
-## Front Matter
+## Za vším byla: Touha po změně
+
+Touha po změně je hnací silou, která nás nutí posouvat se vpřed a hledat nové cesty. Může se projevovat nespokojeností se stávajícím stavem, touhou po něčem novém a vzrušujícím, nebo i snahou o splnění snů a cílů.
+
+Důležité je, abychom tuto touhu neignorovali, ale abychom ji vnímali jako příležitost k růstu a rozvoji. Změna sice může být náročná a vyžadovat odvahu a vytrvalost, ale v konečném důsledku nám může přinést větší štěstí, spokojenost a naplnění.
+
+Několik tipů, jak začít s realizací touhy po změně:
+
+- Ujasněte si, co chcete změnit. Čím konkrétnější budete, tím lépe se vám ji podaří uskutečnit.
+- Stanovte si cíle. Rozdělte si velký cíl na menší a snadněji dosažitelné kroky.
+- Vytvořte si plán. Promyslete si, co budete muset udělat pro dosažení cílů.
+- Začněte hned. Nenechte se odradit strachem z neúspěchu a udělejte první krok.
+- Buďte trpěliví. Změna nenastane ze dne na den, proto buďte trpěliví a vytrvalí.
+- Nebojte se požádat o pomoc. Pokud potřebujete podporu, obraťte se na své blízké, přátele nebo odborníky.
+
+Pamatujte, že nikdy není pozdě na změnu. Pokud máte touhu změnit svůj život, jděte si za ní!
+
+## O mně: Život plný snů a vášní
+
+Jsem obyčejná žena z malého města, která se nenechá svazovat stereotypy. Nuda mě zabíjí, a proto neustále hledám nové zážitky, cesty a způsoby života se vším, co k tomu patří.
+
+Několik let jsem žila v Holandsku, což pro mě byla skvělá zkušenost. Bohužel jsem se ze zdravotních důvodů musela vrátit do České republiky a začít znovu. Postupně jsem si ale uvědomila, že život je krátký na to, abychom se řídili očekáváním druhých a dřeli bez ohledu na sebe. V této fázi uvědomění jsem si řekla a dost, teď je čas taky pro mě a pro to co chci já! Rozhodla jsem se plnit si své sny a přání.
+
+Absolvovala jsem kurz pedikúry, ze které se stal můj velký koníček. Pedikúra mne nesmírně baví a umožňuje mi pomáhat druhým. Následně jsem si udělala kurz thajské masáže nohou, protože masáže miluji a jsou pro mě i způsobem relaxace. V plánu mám i další kurzy, protože péče o tělo mě naplňuje.
+Kromě toho jsem rozjela e-shop, ve kterém pomáhám lidem s výběrem produktů pro zdraví a s otevíráním vlastních e-shopů. Věřím, že online svět bude v budoucnu hrát čím dál důležitější roli a práce z domova přinese lidem svobodu a flexibilitu. Je to skvělá příležitost, jak si řídit čas a dělat to, co vás baví. Takže kdy jindy začít než teď
+
+## Další mé aktivity
+
+ - Jsem zakladatelkou FB skupiny pro ženy.
+ - Miluji cestování a v posledních 4 letech se mým druhým domovem stal Egypt, kam se často vracím. Fascinuje mě jeho historie, památky i způsob života.
+
+## Máte-li dotazy
+
+ - Ohledně Egypta, e-shopu, produktů, pedikúry, FB skupiny, inspirace ke změně nebo čehokoli jiného, neváhejte mě kontaktovat. Ráda Vám pomohu a poradím.
+
 
 Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:
 
